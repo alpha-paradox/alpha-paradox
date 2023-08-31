@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alpha-paradox
 - 👀 I’m interested in Robotics
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning FrontEnd WebDev,Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
